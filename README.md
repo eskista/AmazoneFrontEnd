@@ -1,13 +1,11 @@
 # Getting Started with Create React App
 
-XXXXX
-
 ## Tools used
 
-Material UI
-React router
-react-currency-format
-firebase
+- Material UI
+- React router
+- react-currency-format for Prefix, suffix and thousand separator (when calculating items in basket)
+- Firebase for hosting and database
 
 ###
 
